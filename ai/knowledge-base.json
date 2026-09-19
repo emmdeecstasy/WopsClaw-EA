@@ -1,0 +1,39 @@
+{
+  "cause_areas": {
+    "global_health": {
+      "name": "Global Health and Development",
+      "description": "Saving lives and improving health in low-income countries",
+      "top_charities": [
+        {"name": "Against Malaria Foundation (AMF)", "impact": "High - $50 prevents 1 malaria death"},
+        {"name": "Schistosomiasis Control Initiative (SCI)", "impact": "High - treats parasitic infections"}
+      ]
+    },
+    "animal_welfare": {
+      "name": "Animal Welfare",
+      "description": "Reducing suffering of sentient animals",
+      "top_charities": [
+        {"name": "The Humane League", "impact": "High - corporate campaigns"},
+        {"name": "Animal Charity Evaluators", "impact": "Medium - charity research"}
+      ]
+    },
+    "longtermism": {
+      "name": "Longtermism",
+      "description": "Improving the very long-term future",
+      "top_charities": [
+        {"name": "Future of Life Institute", "impact": "High - existential risk reduction"},
+        {"name": "GiveWell Incubation", "impact": "Medium - emerging cause"}
+      ]
+    }
+  },
+  "ea_frameworks": {
+    "qalys": "Quality-Adjusted Life Year: A measure of disease burden, with 1 QALY = 1 year of perfect health",
+    "dalys": "Disability-Adjusted Life Year: A measure of overall disease burden, combining years of life lost and years lived with disability",
+    "expected_value": "Expected Value: Probability × Impact, used for prioritizing interventions",
+    "triage": "Triage: Prioritizing interventions based on urgency, scale, and neglectedness"
+  },
+  "faq": {
+    "what_are_qualitative_measures": "QALYs and DALYs are the most common quantitative measures in global health economics. QALYs measure quality-adjusted life years, while DALYs measure disability-adjusted life years - both help compare the impact of different interventions.",
+    "how_do_i_choose_a_cause": "The choice of cause area depends on your values, risk tolerance, and focus. Common considerations include: the scale of the problem (how many people are affected), the solvability of the problem (how effective solutions are), and the neglectedness of the area (how much funding/effort is already devoted to it).",
+    "what_is_effective_altruism": "Effective Altruism is a research-based approach to determining the most effective ways to benefit others. It combines compassion with evidence and reason to find the most effective solutions to the world's most pressing problems."
+  }
+}

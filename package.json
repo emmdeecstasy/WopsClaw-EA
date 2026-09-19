@@ -1,0 +1,17 @@
+{
+  "name": "perisclaw-tg",
+  "version": "1.0.0",
+  "description": "Perisclaw TG - Open Source Telegram Executive Assistant for Effective Altruists and Professionals",
+  "private": true,
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "node --watch bot.js",
+    "test": "echo 'No test framework configured'"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.7.0",
+    "date-fns": "^3.6.0",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {}
+}
