@@ -318,8 +318,4 @@ WopsClaw/
 **WopsClaw v1.0.0** - Core commit tracking, notes, tasks, wiki, search, export/delete
 
 ---
-
-*Built with ❤️ for the Effective Altruism community. Questions? Start a discussion on [GitHub Discussions](https://github.com/controlplusacompany/WopsClaw/discussions).*
-
----
 *Made with ❤️ for privacy‑focused AI assistants.*
